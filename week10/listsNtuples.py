@@ -1,3 +1,7 @@
+# Reflection
+# 1. What suprised me the most about how lists work is how easy it is to manipulate them. I was surprised that you can add, remove, and sort items in a list with just a few lines of code.
+# 2. I haven't used excel yet to complete any assignments, although I am familiar with it from using it to play around with during high school. However I think a python list might be more useful for me because I can manipulate the data in a more efficient way and I can use it to do calculations and analysis that would be more difficult to do in excel.
+
 
 # Exercise 1 
 inventory = ["pen", "notebook", "stapler", "tape", "marker"]
